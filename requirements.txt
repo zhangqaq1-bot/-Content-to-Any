@@ -1,0 +1,4 @@
+edge-tts>=7.2.8
+imgkit>=1.2.3
+markdown>=3.10.2
+pydub>=0.25.1
